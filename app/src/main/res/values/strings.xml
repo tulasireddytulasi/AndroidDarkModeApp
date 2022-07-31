@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">darkmode2</string>
+    <string name="data">Coinbase, 2021\'s belle of the IPO ball, is the crypto exchange you may
+        be most familiar with if you\'re just now getting interested in crypto.
+        That\'s for good reason: Coinbase Pro, the robust exchange powering Coinbase,
+        is one of the largest and safest platforms out there.</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
